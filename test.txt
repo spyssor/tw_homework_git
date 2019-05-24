@@ -1,1 +1,6 @@
 This is test branch yeah!!!
+
+
+TDD实战讲义：http://zhangyi.xyz/handout-tdd-code-kata/
+
+ThoughtWorks学习平台：https://school.thoughtworks.cn/learn/home/index.html#/app-center
